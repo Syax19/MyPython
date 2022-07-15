@@ -1,4 +1,3 @@
-
 """
 Password
 
@@ -46,3 +45,4 @@ while j == 0 or j == 1:
                 break
             else:
                 print("密碼輸入正確，歡迎使用本系統！")
+                
