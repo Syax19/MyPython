@@ -1,5 +1,5 @@
 """
-2. 函數的練習-is_prime
+is_prime
 
 寫一函數is_prime(n)用來判斷n是否為質數。
 """
